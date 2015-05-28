@@ -1,0 +1,6 @@
+config/*
+config/**
+venv/*
+venv/**
+
+.DS_Store
